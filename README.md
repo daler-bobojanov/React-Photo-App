@@ -13,3 +13,4 @@
 ## *Wireframe:*
 
 ![1. Landing-Page)](https://github.com/daler-bobojanov/React-Photo-App/blob/master/wireframe/1.Landing-Page.png)
+![2. Home-Page)](https://github.com/daler-bobojanov/React-Photo-App/blob/master/wireframe/2.Home-Page.png)
