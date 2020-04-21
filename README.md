@@ -5,14 +5,14 @@
 - Wireframe.
 - A proper Readme.md file. 
 - Navigation Bar:
-* Home (Photo-Grid);
-* User Profile (Maximum of 3 ppl.);
-* Bookmarks (Saved Images);
+    - Home (Photo-Grid);
+    - User Profile (Maximum of 3 ppl.);
+    - Bookmarks (Saved Images);
 - User is logged in or user is logged out.
 - User Profile:
-* Profile Image;
-* Username;
-* Grid Photos;
+    - Profile Image;
+    - Username;
+    - Grid Photos;
 - Use a node library (SASS/Bootstrap/etc.)
 
 ## *Wireframe:*
