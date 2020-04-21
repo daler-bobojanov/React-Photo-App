@@ -12,4 +12,4 @@
 
 ## *Wireframe:*
 
-* ~ ~ ~
+![1. Landing-Page)](https://github.com/daler-bobojanov/React-Photo-App/blob/master/wireframe/1.Landing-Page.png)
